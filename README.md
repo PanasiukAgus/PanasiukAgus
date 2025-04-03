@@ -4,22 +4,6 @@ Hola! mi nombre es Agustina Panasiuk
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 <br>
-<br>
-	|T|h|i|n|g|s||I||💚|:|
-| - | - | - | - | - | - | - | - | - | - | - |
-| | | |`P`| | | | | | |`W`|
-| |`D`|`E`|`S`|`I`|`G`|`N`| | | |`H`|
-|`M`| | |`Y`| | | | |`C`| |`I`|
-|`I`| | |`C`|`O`|`D`|`E`| |`O`| |`M`|
-|`N`| | |`H`| | | | |`L`| |`S`|
-|`I`| |`S`|`O`|`C`|`I`|`O`|`L`|`O`|`G`|`Y`|
-|`M`| | |`L`| | | | |`R`| | |
-|`A`| | |`O`| | | | | | | |
-|`L`|`I`|`N`|`G`|`U`|`I`|`S`|`T`|`I`|`C`| |
-|`I`| | |`Y`| | |`E`| | | | |
-|`S`| | | | | |`M`| | |[📸](https://www.instagram.com/PanasiukAgus/)| |
-|`M`| | | | | | | | | | |
-	
 <br>	
 
   <div align="center" >
