@@ -9,7 +9,7 @@ Hola! mi nombre es Agustina Panasiuk
   <div align="center" >
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
-  <h3 align="center">🚀 Full Stack Developer 🚀</h3>
+  <h3 align="center">🚀 Programadora  🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PanasiukAgus" alt="abhinavdubeyad9" /> </p>
 
